@@ -1,0 +1,752 @@
+sim 
+ Que bom.
+bem
+ Que bom.
+tudo bem
+ Que bom.
+tudo
+ Que bom.
+td
+ Que bom.
+tudo certo
+ Que bom.
+estou bem
+ Que bom.
+tudo bom
+ Que bom.
+também
+ Que bom.
+eu também
+ Que bom.
+eu também estou
+ Que bom.
+estou bem também
+ Que bom.
+
+sim obrigado
+ Que bom.
+bem obrigado
+ Que bom.
+tudo bem obrigado
+ Que bom.
+tudo certo obrigado
+ Que bom.
+estou bem obrigado
+ Que bom.
+tudo bom obrigado
+ Que bom.
+também obrigado
+ Que bom.
+eu também obrigado
+ Que bom.
+eu também estou obrigado
+ Que bom.
+estou bem também obrigado
+ Que bom.
+
+sim obrigada
+ Que bom.
+bem obrigada
+ Que bom.
+tudo bem obrigada
+ Que bom.
+tudo certo obrigada
+ Que bom.
+estou bem obrigada
+ Que bom.
+tudo bom obrigada
+ Que bom.
+também obrigada
+ Que bom.
+eu também obrigada
+ Que bom.
+eu também estou obrigada
+ Que bom.
+estou bem também obrigada
+ Que bom.
+
+ ==========
+
+
+sim, obrigado
+ Que bom.
+bem, obrigado
+ Que bom.
+tudo bem, obrigado
+ Que bom.
+tudo certo, obrigado
+ Que bom.
+estou bem, obrigado
+ Que bom.
+tudo bom, obrigado
+ Que bom.
+também, obrigado
+ Que bom.
+eu também, obrigado
+ Que bom.
+eu também estou, obrigado
+ Que bom.
+estou bem também, obrigado
+ Que bom.
+
+sim, obrigada
+ Que bom.
+bem, obrigada
+ Que bom.
+tudo bem, obrigada
+ Que bom.
+tudo certo, obrigada
+ Que bom.
+estou bem, obrigada
+ Que bom.
+tudo bom, obrigada
+ Que bom.
+também, obrigada
+ Que bom.
+eu também, obrigada
+ Que bom.
+eu também estou, obrigada
+ Que bom.
+estou bem também, obrigada
+ Que bom.
+
+==================================================================================================================
+--------------------------------------------- ajudando(tentando) -------------------------------------------------
+==================================================================================================================
+
+não
+ Estou aqui para tentar dar apoio. Diga-me, o mais resumidamente possível, o que acontece.
+não estou bem
+ Estou aqui para tentar dar apoio. Diga-me, o mais resumidamente possível, o que acontece.
+não me sinto bem
+ Estou aqui para tentar dar apoio. Diga-me, o mais resumidamente possível, o que acontece.
+
+estou mal
+ Estou aqui para tentar dar apoio. Diga-me, o mais resumidamente possível, o que acontece.
+estou sofrendo
+  Estou aqui para tentar dar apoio. Diga-me, o mais resumidamente possível, o que acontece.
+estou péssimo
+ Estou aqui para tentar dar apoio. Diga-me, o mais resumidamente possível, o que acontece.
+estou acabado
+ Estou aqui para tentar dar apoio. Diga-me, o mais resumidamente possível, o que acontece.
+estou horrível
+ Estou aqui para tentar dar apoio. Diga-me, o mais resumidamente possível, o que acontece.
+estou um lixo
+ Estou aqui para tentar dar apoio. Diga-me, o mais resumidamente possível, o que acontece.
+estou triste
+ tristeza como todo sentimento, uma resposta e reação a algo que acontece em nossa vida. Causo essa tristeza estiver se mantendo por muito tempo, impedindo que de que você consiga continuar com as suas atividades normais do dia a dia, é provável que esteja desenvolvendo uma tristeza característica da depressão.
+estou sozinho
+ O ser humano é movido por relacionamentos e uma vida social é fundamental para que sejamos plenos. Se você sente que pode estar apresentando sintomas de fobia social ou de depressão e ansiedade, pois se sente muito solitário, algo está errado. Procure um psicólogo e ele irá te auxiliar a descobrir de onde vem esse sentimento de solidão e todos os outros que costumam acompanhá-lo.
+estou só
+ O ser humano é movido por relacionamentos e uma vida social é fundamental para que sejamos plenos. Se você sente que pode estar apresentando sintomas de fobia social ou de depressão e ansiedade, pois se sente muito solitário, algo está errado. Procure um psicólogo e ele irá te auxiliar a descobrir de onde vem esse sentimento de solidão e todos os outros que costumam acompanhá-lo.
+estou vazio
+ Você pode se sentir vazio porque algo está faltando em sua vida. Esse vazio é traduzido como um “abandono" ou ser capaz de escutar nossa própria vontade e esperança. Acontece que você pode se abandonar inconscientemente. Talvez esteja se esforçando para obter a perfeição ou a aprovação dos outros. . . Abandonar a nós mesmos pode desencadear ansiedade, depressão, culpa e vergonha. . . causo você esteja sentindo esse vazio, procure ajuda de psicológo.
+estou sem vida social
+ O ser humano é movido por relacionamentos e uma vida social é fundamental para que sejamos plenos. Se você sente que pode estar apresentando sintomas de fobia social ou de depressão e ansiedade, pois se sente muito solitário, algo está errado. Procure um psicólogo e ele irá te auxiliar a descobrir de onde vem esse sentimento de solidão e todos os outros que costumam acompanhá-lo.
+estou infeliz
+ Você pode estar se sentindo infeliz porque algo está faltando em sua vida. Esse vazio é traduzido como um “abandono" ou ser capaz de escutar nossa própria vontade e esperança. Acontece que você pode se abandonar inconscientemente. Talvez esteja se esforçando para obter a perfeição ou a aprovação dos outros. . . Abandonar a nós mesmos pode desencadear ansiedade, depressão, culpa e vergonha. . . causo você esteja sentindo esse vazio, procure ajuda de psicológo.
+
+me sinto mal
+ Estou aqui para tentar dar apoio. Diga-me, o mais resumidamente possível, o que acontece.
+me sinto péssimo
+ Estou aqui para tentar dar apoio. Diga-me, o mais resumidamente possível, o que acontece.
+me sinto acabado
+ Estou aqui para tentar dar apoio. Diga-me, o mais resumidamente possível, o que acontece.
+me sinto horrível
+ Estou aqui para tentar dar apoio. Diga-me, o mais resumidamente possível, o que acontece.
+me sinto um lixo
+ Estou aqui para tentar dar apoio. Diga-me, o mais resumidamente possível, o que acontece.
+me sinto triste
+ A tristeza é, como todo sentimento, uma resposta e reação a algo que acontece em nossa vida. Causo essa tristeza estiver se mantendo por muito tempo, impedindo que de que você consiga continuar com as suas atividades normais do dia a dia, é provável que esteja desenvolvendo uma tristeza característica da depressão.
+me sinto sozinho
+ O ser humano é movido por relacionamentos e uma vida social é fundamental para que sejamos plenos. Se você sente que pode estar apresentando sintomas de fobia social ou de depressão e ansiedade, pois se sente muito solitário, algo está errado. Procure um psicólogo e ele irá te auxiliar a descobrir de onde vem esse sentimento de solidão e todos os outros que costumam acompanhá-lo.
+me sinto só
+ O ser humano é movido por relacionamentos e uma vida social é fundamental para que sejamos plenos. Se você sente que pode estar apresentando sintomas de fobia social ou de depressão e ansiedade, pois se sente muito solitário, algo está errado. Procure um psicólogo e ele irá te auxiliar a descobrir de onde vem esse sentimento de solidão e todos os outros que costumam acompanhá-lo.
+me sinto vazio
+ Você pode se sentir vazio porque algo está faltando em sua vida. Esse vazio é traduzido como um “abandono" ou ser capaz de escutar nossa própria vontade e esperança. Acontece que você pode se abandonar inconscientemente. Talvez esteja se esforçando para obter a perfeição ou a aprovação dos outros. . . Abandonar a nós mesmos pode desencadear ansiedade, depressão, culpa e vergonha. . . causo você esteja sentindo esse vazio, procure ajuda de psicológo.
+me sinto sem vida social
+ O ser humano é movido por relacionamentos e uma vida social é fundamental para que sejamos plenos. Se você sente que pode estar apresentando sintomas de fobia social ou de depressão e ansiedade, pois se sente muito solitário, algo está errado. Procure um psicólogo e ele irá te auxiliar a descobrir de onde vem esse sentimento de solidão e todos os outros que costumam acompanhá-lo.
+me sinto infeliz
+ Você pode estar se sentindo infeliz porque algo está faltando em sua vida. Esse vazio é traduzido como um “abandono" ou ser capaz de escutar nossa própria vontade e esperança. Acontece que você pode se abandonar inconscientemente. Talvez esteja se esforçando para obter a perfeição ou a aprovação dos outros. . . Abandonar a nós mesmos pode desencadear ansiedade, depressão, culpa e vergonha. . . causo você esteja sentindo esse vazio, procure ajuda de psicológo.
+
+
+
+eu não estou bem
+ Estou aqui para tentar dar apoio. Diga-me, o mais resumidamente possível, o que acontece.
+eu não me sinto bem
+ Estou aqui para tentar dar apoio. Diga-me, o mais resumidamente possível, o que acontece.
+
+eu estou mal
+ Estou aqui para tentar dar apoio. Diga-me, o mais resumidamente possível, o que acontece.
+eu estou sofrendo
+ Estou aqui para tentar dar apoio. Diga-me, o mais resumidamente possível, o que acontece.
+eu estou péssimo
+ Estou aqui para tentar dar apoio. Diga-me, o mais resumidamente possível, o que acontece.
+eu estou acabado
+ Estou aqui para tentar dar apoio. Diga-me, o mais resumidamente possível, o que acontece.
+eu estou horrível
+ Estou aqui para tentar dar apoio. Diga-me, o mais resumidamente possível, o que acontece.
+eu estou um lixo
+ Estou aqui para tentar dar apoio. Diga-me, o mais resumidamente possível, o que acontece.
+eu estou triste
+ A tristeza é, como todo sentimento, uma resposta e reação a algo que acontece em nossa vida. Causo essa tristeza estiver se mantendo por muito tempo, impedindo que de que você consiga continuar com as suas atividades normais do dia a dia, é provável que esteja desenvolvendo uma tristeza característica da depressão.
+eu estou sozinho
+ O ser humano é movido por relacionamentos e uma vida social é fundamental para que sejamos plenos. Se você sente que pode estar apresentando sintomas de fobia social ou de depressão e ansiedade, pois se sente muito solitário, algo está errado. Procure um psicólogo e ele irá te auxiliar a descobrir de onde vem esse sentimento de solidão e todos os outros que costumam acompanhá-lo.
+eu estou só
+ O ser humano é movido por relacionamentos e uma vida social é fundamental para que sejamos plenos. Se você sente que pode estar apresentando sintomas de fobia social ou de depressão e ansiedade, pois se sente muito solitário, algo está errado. Procure um psicólogo e ele irá te auxiliar a descobrir de onde vem esse sentimento de solidão e todos os outros que costumam acompanhá-lo.
+eu estou vazio
+ Você pode se sentir vazio porque algo está faltando em sua vida. Esse vazio é traduzido como um “abandono" ou ser capaz de escutar nossa própria vontade e esperança. Acontece que você pode se abandonar inconscientemente. Talvez esteja se esforçando para obter a perfeição ou a aprovação dos outros. . . Abandonar a nós mesmos pode desencadear ansiedade, depressão, culpa e vergonha. . . causo você esteja sentindo esse vazio, procure ajuda de psicológo.
+eu estou sem vida social
+ O ser humano é movido por relacionamentos e uma vida social é fundamental para que sejamos plenos. Se você sente que pode estar apresentando sintomas de fobia social ou de depressão e ansiedade, pois se sente muito solitário, algo está errado. Procure um psicólogo e ele irá te auxiliar a descobrir de onde vem esse sentimento de solidão e todos os outros que costumam acompanhá-lo.
+eu estou infeliz
+ Você pode estar se sentindo infeliz porque algo está faltando em sua vida. Esse vazio é traduzido como um “abandono" ou ser capaz de escutar nossa própria vontade e esperança. Acontece que você pode se abandonar inconscientemente. Talvez esteja se esforçando para obter a perfeição ou a aprovação dos outros. . . Abandonar a nós mesmos pode desencadear ansiedade, depressão, culpa e vergonha. . . causo você esteja sentindo esse vazio, procure ajuda de psicológo.
+
+eu me sinto mal
+ Estou aqui para tentar dar apoio. Diga-me, o mais resumidamente possível, o que acontece.
+eu sinto sofrimento
+ Estou aqui para tentar dar apoio. Diga-me, o mais resumidamente possível, o que acontece.
+eu me sinto péssimo
+ Estou aqui para tentar dar apoio. Diga-me, o mais resumidamente possível, o que acontece.
+eu me sinto acabado
+ Estou aqui para tentar dar apoio. Diga-me, o mais resumidamente possível, o que acontece.
+eu me sinto horrível
+ Estou aqui para tentar dar apoio. Diga-me, o mais resumidamente possível, o que acontece.
+eu me sinto um lixo
+ Estou aqui para tentar dar apoio. Diga-me, o mais resumidamente possível, o que acontece.
+eu me sinto triste
+ A tristeza é, como todo sentimento, uma resposta e reação a algo que acontece em nossa vida. Causo essa tristeza estiver se mantendo por muito tempo, impedindo que de que você consiga continuar com as suas atividades normais do dia a dia, é provável que esteja desenvolvendo uma tristeza característica da depressão.
+eu me sinto sozinho
+ O ser humano é movido por relacionamentos e uma vida social é fundamental para que sejamos plenos. Se você sente que pode estar apresentando sintomas de fobia social ou de depressão e ansiedade, pois se sente muito solitário, algo está errado. Procure um psicólogo e ele irá te auxiliar a descobrir de onde vem esse sentimento de solidão e todos os outros que costumam acompanhá-lo.
+eu me sinto só
+ O ser humano é movido por relacionamentos e uma vida social é fundamental para que sejamos plenos. Se você sente que pode estar apresentando sintomas de fobia social ou de depressão e ansiedade, pois se sente muito solitário, algo está errado. Procure um psicólogo e ele irá te auxiliar a descobrir de onde vem esse sentimento de solidão e todos os outros que costumam acompanhá-lo.
+eu me sinto vazio
+ Você pode se sentir vazio porque algo está faltando em sua vida. Esse vazio é traduzido como um “abandono" ou ser capaz de escutar nossa própria vontade e esperança. Acontece que você pode se abandonar inconscientemente. Talvez esteja se esforçando para obter a perfeição ou a aprovação dos outros. . . Abandonar a nós mesmos pode desencadear ansiedade, depressão, culpa e vergonha. . . causo você esteja sentindo esse vazio, procure ajuda de psicológo.
+eu me sinto sem vida social
+ O ser humano é movido por relacionamentos e uma vida social é fundamental para que sejamos plenos. Se você sente que pode estar apresentando sintomas de fobia social ou de depressão e ansiedade, pois se sente muito solitário, algo está errado. Procure um psicólogo e ele irá te auxiliar a descobrir de onde vem esse sentimento de solidão e todos os outros que costumam acompanhá-lo.
+eu me sinto infeliz
+ Você pode estar se sentindo infeliz porque algo está faltando em sua vida. Esse vazio é traduzido como um “abandono" ou ser capaz de escutar nossa própria vontade e esperança. Acontece que você pode se abandonar inconscientemente. Talvez esteja se esforçando para obter a perfeição ou a aprovação dos outros. . . Abandonar a nós mesmos pode desencadear ansiedade, depressão, culpa e vergonha. . . causo você esteja sentindo esse vazio, procure ajuda de psicológo.
+
+eu estou me sentindo mal
+ Estou aqui para tentar dar apoio. Diga-me, o mais resumidamente possível, o que acontece.
+eu estou me sentindo sofrendo
+ Estou aqui para tentar dar apoio. Diga-me, o mais resumidamente possível, o que acontece.
+eu estou me sentindo péssimo
+ Estou aqui para tentar dar apoio. Diga-me, o mais resumidamente possível, o que acontece.
+eu estou me sentindo acabado
+ Estou aqui para tentar dar apoio. Diga-me, o mais resumidamente possível, o que acontece.
+eu estou me sentindo horrível
+ Estou aqui para tentar dar apoio. Diga-me, o mais resumidamente possível, o que acontece.
+eu estou me sentindo um lixo
+ Estou aqui para tentar dar apoio. Diga-me, o mais resumidamente possível, o que acontece.
+eu estou me sentindo triste
+ A tristeza é, como todo sentimento, uma resposta e reação a algo que acontece em nossa vida. Causo essa tristeza estiver se mantendo por muito tempo, impedindo que de que você consiga continuar com as suas atividades normais do dia a dia, é provável que esteja desenvolvendo uma tristeza característica da depressão.
+eu estou me sentindo sozinho
+ O ser humano é movido por relacionamentos e uma vida social é fundamental para que sejamos plenos. Se você sente que pode estar apresentando sintomas de fobia social ou de depressão e ansiedade, pois se sente muito solitário, algo está errado. Procure um psicólogo e ele irá te auxiliar a descobrir de onde vem esse sentimento de solidão e todos os outros que costumam acompanhá-lo.
+eu estou me sentindo só
+ O ser humano é movido por relacionamentos e uma vida social é fundamental para que sejamos plenos. Se você sente que pode estar apresentando sintomas de fobia social ou de depressão e ansiedade, pois se sente muito solitário, algo está errado. Procure um psicólogo e ele irá te auxiliar a descobrir de onde vem esse sentimento de solidão e todos os outros que costumam acompanhá-lo.
+eu sou sozinho
+ O ser humano é movido por relacionamentos e uma vida social é fundamental para que sejamos plenos. Se você sente que pode estar apresentando sintomas de fobia social ou de depressão e ansiedade, pois se sente muito solitário, algo está errado. Procure um psicólogo e ele irá te auxiliar a descobrir de onde vem esse sentimento de solidão e todos os outros que costumam acompanhá-lo.
+eu sou só
+ O ser humano é movido por relacionamentos e uma vida social é fundamental para que sejamos plenos. Se você sente que pode estar apresentando sintomas de fobia social ou de depressão e ansiedade, pois se sente muito solitário, algo está errado. Procure um psicólogo e ele irá te auxiliar a descobrir de onde vem esse sentimento de solidão e todos os outros que costumam acompanhá-lo.
+eu estou infeliz
+ Você pode estar se sentindo infeliz porque algo está faltando em sua vida. Esse vazio é traduzido como um “abandono" ou ser capaz de escutar nossa própria vontade e esperança. Acontece que você pode se abandonar inconscientemente. Talvez esteja se esforçando para obter a perfeição ou a aprovação dos outros. . . Abandonar a nós mesmos pode desencadear ansiedade, depressão, culpa e vergonha. . . causo você esteja sentindo esse vazio, procure ajuda de psicológo.
+eu sou infeliz
+ Você pode estar se sentindo infeliz porque algo está faltando em sua vida. Esse vazio é traduzido como um “abandono" ou ser capaz de escutar nossa própria vontade e esperança. Acontece que você pode se abandonar inconscientemente. Talvez esteja se esforçando para obter a perfeição ou a aprovação dos outros. . . Abandonar a nós mesmos pode desencadear ansiedade, depressão, culpa e vergonha. . . causo você esteja sentindo esse vazio, procure ajuda de psicológo.
+eu estou vazio
+ Você pode se sentir vazio porque algo está faltando em sua vida. Esse vazio é traduzido como um “abandono" ou ser capaz de escutar nossa própria vontade e esperança. Acontece que você pode se abandonar inconscientemente. Talvez esteja se esforçando para obter a perfeição ou a aprovação dos outros. . . Abandonar a nós mesmos pode desencadear ansiedade, depressão, culpa e vergonha. . . causo você esteja sentindo esse vazio, procure ajuda de psicológo.
+
+
+sou sozinho
+ O ser humano é movido por relacionamentos e uma vida social é fundamental para que sejamos plenos. Se você sente que pode estar apresentando sintomas de fobia social ou de depressão e ansiedade, pois se sente muito solitário, algo está errado. Procure um psicólogo e ele irá te auxiliar a descobrir de onde vem esse sentimento de solidão e todos os outros que costumam acompanhá-lo.
+sou só
+ O ser humano é movido por relacionamentos e uma vida social é fundamental para que sejamos plenos. Se você sente que pode estar apresentando sintomas de fobia social ou de depressão e ansiedade, pois se sente muito solitário, algo está errado. Procure um psicólogo e ele irá te auxiliar a descobrir de onde vem esse sentimento de solidão e todos os outros que costumam acompanhá-lo.
+sou infeliz
+ Você pode estar se sentindo infeliz porque algo está faltando em sua vida. Esse vazio é traduzido como um “abandono" ou ser capaz de escutar nossa própria vontade e esperança. Acontece que você pode se abandonar inconscientemente. Talvez esteja se esforçando para obter a perfeição ou a aprovação dos outros. . . Abandonar a nós mesmos pode desencadear ansiedade, depressão, culpa e vergonha. . . causo você esteja sentindo esse vazio, procure ajuda de psicológo.
+
+
+==================================================================================================================
+------------------------------------------- não consigo dormir ---------------------------------------------------
+==================================================================================================================
+
+não consigo dormir
+ O sono é fundamental para as funções biológicas e sua qualidade interfere diretamente no nosso dia a dia. ficar sem dormir pode prejudicar você de várias formas. Talvez seja hora de buscar ajuda profissional, antes que tenha um dano cognitivo ireversvel. . . Esse é o meu conselho.
+
+não consigo mais dormir
+ O sono é fundamental para as funções biológicas e sua qualidade interfere diretamente no nosso dia a dia. ficar sem dormir pode prejudicar você de várias formas. Talvez seja hora de buscar ajuda profissional, antes que tenha um dano cognitivo ireversvel. . . Esse é o meu conselho.
+
+eu não consigo dormir
+ O sono é fundamental para as funções biológicas e sua qualidade interfere diretamente no nosso dia a dia. ficar sem dormir pode prejudicar você de várias formas. Talvez seja hora de buscar ajuda profissional, antes que tenha um dano cognitivo ireversvel. . . Esse é o meu conselho.
+
+eu não consigo mais dormir
+ O sono é fundamental para as funções biológicas e sua qualidade interfere diretamente no nosso dia a dia. ficar sem dormir pode prejudicar você de várias formas. Talvez seja hora de buscar ajuda profissional, antes que tenha um dano cognitivo ireversvel. . . Esse é o meu conselho.
+
+==================================================================================================================
+------------------------------------------------- sem amigos -----------------------------------------------------
+==================================================================================================================
+
+sinto que ninguém gosta de mim
+ O ser humano é movido por relacionamentos e uma vida social é fundamental para que sejamos plenos. Se você sente que pode estar apresentando sintomas de fobia social ou de depressão e ansiedade, pois se sente muito solitário, algo está errado. Procure um psicólogo e ele irá te auxiliar a descobrir de onde vem esse sentimento de solidão e todos os outros que costumam acompanhá-lo.
+acho que ninguém gosta de mim
+ O ser humano é movido por relacionamentos e uma vida social é fundamental para que sejamos plenos. Se você sente que pode estar apresentando sintomas de fobia social ou de depressão e ansiedade, pois se sente muito solitário, algo está errado. Procure um psicólogo e ele irá te auxiliar a descobrir de onde vem esse sentimento de solidão e todos os outros que costumam acompanhá-lo.
+parece que ninguém gosta de mim
+ O ser humano é movido por relacionamentos e uma vida social é fundamental para que sejamos plenos. Se você sente que pode estar apresentando sintomas de fobia social ou de depressão e ansiedade, pois se sente muito solitário, algo está errado. Procure um psicólogo e ele irá te auxiliar a descobrir de onde vem esse sentimento de solidão e todos os outros que costumam acompanhá-lo.
+ninguém gosta de mim
+ O ser humano é movido por relacionamentos e uma vida social é fundamental para que sejamos plenos. Se você sente que pode estar apresentando sintomas de fobia social ou de depressão e ansiedade, pois se sente muito solitário, algo está errado. Procure um psicólogo e ele irá te auxiliar a descobrir de onde vem esse sentimento de solidão e todos os outros que costumam acompanhá-lo.
+não tenho amigos
+  A internet pode ser um ótimo lugar para fazer amizades. Causo nem isso esteja dando certo o que tenho a dizer é: O ser humano é movido por relacionamentos e uma vida social é fundamental para que sejamos plenos. Se você sente que pode estar apresentando sintomas de fobia social ou de depressão e ansiedade, pois se sente muito solitário, algo está errado. Procure um psicólogo e ele irá te auxiliar a descobrir de onde vem esse sentimento de solidão e todos os outros que costumam acompanhá-lo.
+
+
+eu sinto que ninguém gosta de mim
+ O ser humano é movido por relacionamentos e uma vida social é fundamental para que sejamos plenos. Se você sente que pode estar apresentando sintomas de fobia social ou de depressão e ansiedade, pois se sente muito solitário, algo está errado. Procure um psicólogo e ele irá te auxiliar a descobrir de onde vem esse sentimento de solidão e todos os outros que costumam acompanhá-lo.
+eu acho que ninguém gosta de mim
+ O ser humano é movido por relacionamentos e uma vida social é fundamental para que sejamos plenos. Se você sente que pode estar apresentando sintomas de fobia social ou de depressão e ansiedade, pois se sente muito solitário, algo está errado. Procure um psicólogo e ele irá te auxiliar a descobrir de onde vem esse sentimento de solidão e todos os outros que costumam acompanhá-lo.
+eu imagino que ninguém gosta de mim
+ O ser humano é movido por relacionamentos e uma vida social é fundamental para que sejamos plenos. Se você sente que pode estar apresentando sintomas de fobia social ou de depressão e ansiedade, pois se sente muito solitário, algo está errado. Procure um psicólogo e ele irá te auxiliar a descobrir de onde vem esse sentimento de solidão e todos os outros que costumam acompanhá-lo.
+eu não tenho amigos
+ A internet pode ser um ótimo lugar para fazer amizades. Causo nem isso esteja dando certo o que tenho a dizer é: O ser humano é movido por relacionamentos e uma vida social é fundamental para que sejamos plenos. Se você sente que pode estar apresentando sintomas de fobia social ou de depressão e ansiedade, pois se sente muito solitário, algo está errado. Procure um psicólogo e ele irá te auxiliar a descobrir de onde vem esse sentimento de solidão e todos os outros que costumam acompanhá-lo.
+
+
+==================================================================================================================
+---------------------------------------- perda de alguém querido -------------------------------------------------
+==================================================================================================================
+
+sinto falta do meu pai
+ Sinto muito. . . O luto pode ser uma resposta esperada e natural diante da perda de uma pessoacom quem você construiu um vínculo afetivo.
+sinto falta da minha mãe
+ Sinto muito. . . O luto pode ser uma resposta esperada e natural diante da perda de uma pessoacom quem você construiu um vínculo afetivo.
+sinto falta dos meus pais
+ Sinto muito. . . O luto pode ser uma resposta esperada e natural diante da perda de uma pessoacom quem você construiu um vínculo afetivo.
+sinto saudade do meu pai
+ Sinto muito. . . O luto pode ser uma resposta esperada e natural diante da perda de uma pessoacom quem você construiu um vínculo afetivo.
+sinto saudade da minha mãe
+ Sinto muito. . . O luto pode ser uma resposta esperada e natural diante da perda de uma pessoacom quem você construiu um vínculo afetivo.
+sinto saudade dos meus pais
+ Sinto muito. . . O luto pode ser uma resposta esperada e natural diante da perda de uma pessoacom quem você construiu um vínculo afetivo.
+estou com saudade do meu pai
+ Sinto muito. . . O luto pode ser uma resposta esperada e natural diante da perda de uma pessoacom quem você construiu um vínculo afetivo.
+estou com saudade da minha mãe
+ Sinto muito. . . O luto pode ser uma resposta esperada e natural diante da perda de uma pessoacom quem você construiu um vínculo afetivo.
+estou com saudade dos meus pais
+ Sinto muito. . . O luto pode ser uma resposta esperada e natural diante da perda de uma pessoacom quem você construiu um vínculo afetivo.
+estou sentindo falta do meu pai
+ Sinto muito. . . O luto pode ser uma resposta esperada e natural diante da perda de uma pessoacom quem você construiu um vínculo afetivo.
+estou sentindo falta da minha mãe
+ Sinto muito. . . O luto pode ser uma resposta esperada e natural diante da perda de uma pessoacom quem você construiu um vínculo afetivo.
+estou sentindo falta dos meus pais
+ Sinto muito. . . O luto pode ser uma resposta esperada e natural diante da perda de uma pessoacom quem você construiu um vínculo afetivo.
+estou sentindo saudade do meu pai
+ Sinto muito. . . O luto pode ser uma resposta esperada e natural diante da perda de uma pessoacom quem você construiu um vínculo afetivo.
+estou sentindo saudade da minha mãe
+ Sinto muito. . . O luto pode ser uma resposta esperada e natural diante da perda de uma pessoacom quem você construiu um vínculo afetivo.
+estou sentindo saudade dos meus pais
+ Sinto muito. . . O luto pode ser uma resposta esperada e natural diante da perda de uma pessoacom quem você construiu um vínculo afetivo.
+
+perdi meu pai
+ Sinto muito. . . O luto pode ser uma resposta esperada e natural diante da perda de uma pessoacom quem você construiu um vínculo afetivo.
+perdi minha mãe
+ Sinto muito. . . O luto pode ser uma resposta esperada e natural diante da perda de uma pessoacom quem você construiu um vínculo afetivo.
+perdi meus pais
+ Sinto muito. . . O luto pode ser uma resposta esperada e natural diante da perda de uma pessoacom quem você construiu um vínculo afetivo.
+meu pai morreu
+ Sinto muito. . . O luto pode ser uma resposta esperada e natural diante da perda de uma pessoacom quem você construiu um vínculo afetivo.
+minha mãe morreu
+ Sinto muito. . . O luto pode ser uma resposta esperada e natural diante da perda de uma pessoacom quem você construiu um vínculo afetivo.
+meu pai faleceu
+ Sinto muito. . . O luto pode ser uma resposta esperada e natural diante da perda de uma pessoacom quem você construiu um vínculo afetivo.
+minha mãe faleceu
+ Sinto muito. . . O luto pode ser uma resposta esperada e natural diante da perda de uma pessoacom quem você construiu um vínculo afetivo.
+meu pai está morto
+ Sinto muito. . . O luto pode ser uma resposta esperada e natural diante da perda de uma pessoacom quem você construiu um vínculo afetivo.
+minha mãe está morta
+ Sinto muito. . . O luto pode ser uma resposta esperada e natural diante da perda de uma pessoacom quem você construiu um vínculo afetivo.
+meus pais morreram
+ Sinto muito. . . O luto pode ser uma resposta esperada e natural diante da perda de uma pessoacom quem você construiu um vínculo afetivo.
+meus pais faleceram
+ Sinto muito. . . O luto pode ser uma resposta esperada e natural diante da perda de uma pessoacom quem você construiu um vínculo afetivo.
+meus pais estão mortos
+ Sinto muito. . . O luto pode ser uma resposta esperada e natural diante da perda de uma pessoacom quem você construiu um vínculo afetivo.
+alguém importante morreu
+ Sinto muito. . . O luto pode ser uma resposta esperada e natural diante da perda de uma pessoacom quem você construiu um vínculo afetivo.
+perdi alguém
+ Sinto muito. . . O luto pode ser uma resposta esperada e natural diante da perda de uma pessoacom quem você construiu um vínculo afetivo.
+perdi alguém importante
+ Sinto muito. . . O luto pode ser uma resposta esperada e natural diante da perda de uma pessoacom quem você construiu um vínculo afetivo.
+
+eu sinto falta do meu pai
+ Sinto muito. . . O luto pode ser uma resposta esperada e natural diante da perda de uma pessoacom quem você construiu um vínculo afetivo.
+eu sinto falta da minha mãe
+ Sinto muito. . . O luto pode ser uma resposta esperada e natural diante da perda de uma pessoacom quem você construiu um vínculo afetivo.
+eu sinto falta dos meus pais
+ Sinto muito. . . O luto pode ser uma resposta esperada e natural diante da perda de uma pessoacom quem você construiu um vínculo afetivo.
+eu sinto saudade do meu pai
+ Sinto muito. . . O luto pode ser uma resposta esperada e natural diante da perda de uma pessoacom quem você construiu um vínculo afetivo.
+eu sinto saudade da minha mãe
+ Sinto muito. . . O luto pode ser uma resposta esperada e natural diante da perda de uma pessoacom quem você construiu um vínculo afetivo.
+eu sinto saudade dos meus pais
+ Sinto muito. . . O luto pode ser uma resposta esperada e natural diante da perda de uma pessoacom quem você construiu um vínculo afetivo.
+eu estou com saudade do meu pai
+ Sinto muito. . . O luto pode ser uma resposta esperada e natural diante da perda de uma pessoacom quem você construiu um vínculo afetivo.
+eu estou com saudade da minha mãe
+ Sinto muito. . . O luto pode ser uma resposta esperada e natural diante da perda de uma pessoacom quem você construiu um vínculo afetivo.
+eu estou com saudade dos meus pais
+ Sinto muito. . . O luto pode ser uma resposta esperada e natural diante da perda de uma pessoacom quem você construiu um vínculo afetivo.
+eu estou sentindo falta do meu pai
+ Sinto muito. . . O luto pode ser uma resposta esperada e natural diante da perda de uma pessoacom quem você construiu um vínculo afetivo.
+eu estou sentindo falta da minha mãe
+ Sinto muito. . . O luto pode ser uma resposta esperada e natural diante da perda de uma pessoacom quem você construiu um vínculo afetivo.
+eu estou sentindo falta dos meus pais
+ Sinto muito. . . O luto pode ser uma resposta esperada e natural diante da perda de uma pessoacom quem você construiu um vínculo afetivo.
+eu estou sentindo saudade do meu pai
+ Sinto muito. . . O luto pode ser uma resposta esperada e natural diante da perda de uma pessoacom quem você construiu um vínculo afetivo.
+eu estou sentindo saudade da minha mãe
+ Sinto muito. . . O luto pode ser uma resposta esperada e natural diante da perda de uma pessoacom quem você construiu um vínculo afetivo.
+eu estou sentindo saudade dos meus pais
+ Sinto muito. . . O luto pode ser uma resposta esperada e natural diante da perda de uma pessoacom quem você construiu um vínculo afetivo.
+eu perdi alguém
+ Sinto muito. . . O luto pode ser uma resposta esperada e natural diante da perda de uma pessoacom quem você construiu um vínculo afetivo.
+eu perdi alguém importante
+ Sinto muito. . . O luto pode ser uma resposta esperada e natural diante da perda de uma pessoacom quem você construiu um vínculo afetivo.
+
+morte de um familiar
+ O luto pode ser uma resposta esperada e natural diante da perda de uma pessoacom quem você construiu um vínculo afetivo.
+
+
+==================================================================================================================
+------------------------------------------ fim de relacionamento -------------------------------------------------
+==================================================================================================================
+
+meu namorado terminou comigo
+ Relacionamentos têm momentos bons e ruins, e, às vezes, eles acabam. No momento da separação é muito difícil imaginarque essa dor vai passar e que tudo vai voltar ao normal, mas vai e pode até ficar melhor
+minha namorada terminou comigo
+ Relacionamentos têm momentos bons e ruins, e, às vezes, eles acabam. No momento da separação é muito difícil imaginarque essa dor vai passar e que tudo vai voltar ao normal, mas vai e pode até ficar melhor
+meu namorado terminou o namoro
+ Relacionamentos têm momentos bons e ruins, e, às vezes, eles acabam. No momento da separação é muito difícil imaginarque essa dor vai passar e que tudo vai voltar ao normal, mas vai e pode até ficar melhor
+minha namorada terminou o namoro
+ Relacionamentos têm momentos bons e ruins, e, às vezes, eles acabam. No momento da separação é muito difícil imaginarque essa dor vai passar e que tudo vai voltar ao normal, mas vai e pode até ficar melhor
+
+terminei o namoro
+ Relacionamentos têm momentos bons e ruins, e, às vezes, eles acabam. No momento da separação é muito difícil imaginarque essa dor vai passar e que tudo vai voltar ao normal, mas vai e pode até ficar melhor
+acabou o relacionamento
+ Relacionamentos têm momentos bons e ruins, e, às vezes, eles acabam. No momento da separação é muito difícil imaginarque essa dor vai passar e que tudo vai voltar ao normal, mas vai e pode até ficar melhor
+termino de relacionamento
+ Relacionamentos têm momentos bons e ruins, e, às vezes, eles acabam. No momento da separação é muito difícil imaginarque essa dor vai passar e que tudo vai voltar ao normal, mas vai e pode até ficar melhor
+fim de relacionamento
+ Relacionamentos têm momentos bons e ruins, e, às vezes, eles acabam. No momento da separação é muito difícil imaginarque essa dor vai passar e que tudo vai voltar ao normal, mas vai e pode até ficar melhor
+
+==================================================================================================================
+----------------------------------------------- baixa autoestima -------------------------------------------------
+==================================================================================================================
+
+tenho baixa autoestima
+ Sua autoestima é fundamental para uma vida saudável em relação ao trabalho, amor, família, saúde e emoções. A terapia pode auxiliar você a potencializar o que tem de positivo em sua vida, então recomendo buscar ajuda profissional. conseguir trabalhar o que há dentro de si leva tempo, mas pode produzir atitudes positivas para você e para os outros. 
+não tenho autoestima
+ Sua autoestima é fundamental para uma vida saudável em relação ao trabalho, amor, família, saúde e emoções. A terapia pode auxiliar você a potencializar o que tem de positivo em sua vida, então recomendo buscar ajuda profissional. conseguir trabalhar o que há dentro de si leva tempo, mas pode produzir atitudes positivas para você e para os outros. 
+eu tenho baixa autoestima
+ Sua autoestima é fundamental para uma vida saudável em relação ao trabalho, amor, família, saúde e emoções. A terapia pode auxiliar você a potencializar o que tem de positivo em sua vida, então recomendo buscar ajuda profissional. conseguir trabalhar o que há dentro de si leva tempo, mas pode produzir atitudes positivas para você e para os outros. 
+eu não tenho autoestima
+ Sua autoestima é fundamental para uma vida saudável em relação ao trabalho, amor, família, saúde e emoções. A terapia pode auxiliar você a potencializar o que tem de positivo em sua vida, então recomendo buscar ajuda profissional. conseguir trabalhar o que há dentro de si leva tempo, mas pode produzir atitudes positivas para você e para os outros. 
+
+==================================================================================================================
+-------------------------------------------------- bullying ------------------------------------------------------
+==================================================================================================================
+
+eu sofro bullying 
+ Para enfrentar a situação com segurança, é necessário que você mantenha a autoestima e a autoconfiança até que o agressor desista e pare de importunar você. Não tente reagir violentamente, pois pode piorar a situação. E o mais importante, fale com alguém sobre o que está acontecendo. Nunca tenha medo de pedir ajuda.
+eu estou sofrendo bullying
+ Para enfrentar a situação com segurança, é necessário que você mantenha a autoestima e a autoconfiança até que o agressor desista e pare de importunar você. Não tente reagir violentamente, pois pode piorar a situação. E o mais importante, fale com alguém sobre o que está acontecendo. Nunca tenha medo de pedir ajuda.
+
+sofro bullying
+ Para enfrentar a situação com segurança, é necessário que você mantenha a autoestima e a autoconfiança até que o agressor desista e pare de importunar você. Não tente reagir violentamente, pois pode piorar a situação. E o mais importante, fale com alguém sobre o que está acontecendo. Nunca tenha medo de pedir ajuda.
+estou sofrendo bullying
+ Para enfrentar a situação com segurança, é necessário que você mantenha a autoestima e a autoconfiança até que o agressor desista e pare de importunar você. Não tente reagir violentamente, pois pode piorar a situação. E o mais importante, fale com alguém sobre o que está acontecendo. Nunca tenha medo de pedir ajuda.
+
+
+==================================================================================================================
+---------------------------------------------- pedido de ajuda ---------------------------------------------------
+==================================================================================================================
+como você ajuda?
+ Auxiliando as pessoas da melhor maneira possível.
+como vc ajuda?
+ Auxiliando as pessoas da melhor maneira possível.
+como você pode me ajudar?
+ Basta dizer o que está acontecendo. Sou apenas um bot. . . Mas tentarei ajudar da forma que eu puder.
+como vc pode me ajudar?
+ Basta dizer o que está acontecendo. Sou apenas um bot. . . Mas tentarei ajudar da forma que eu puder.
+você pode me ajudar?
+ Basta dizer o que está acontecendo. Sou apenas um bot. . . Mas tentarei ajudar da forma que eu puder.
+vc pode me ajudar?
+ Basta dizer o que está acontecendo. Sou apenas um bot. . . Mas tentarei ajudar da forma que eu puder.
+você pode me ajudar?
+ Sim. Basta dizer o que está acontecendo. Sou apenas um bot. . . Mas tentarei ajudar da forma que eu puder.
+vc pode me ajudar?
+ Sim. Basta dizer o que está acontecendo. Sou apenas um bot. . . Mas tentarei ajudar da forma que eu puder.
+
+as coisas estão difíceis
+ Entendo que esteja passando por uma situação difícil, infelizmente sou apenas um chatbot. . . Eu recomendo buscar ajuda profissional. Você pode entrar no site: " zenklub.com.br ". Nele você terá ajuda psicológica. E, causo esteja procurando por mais informações, entre no site: " centralpsicologia.com.br/blog " . Nele você encontra vários artigos. 
+as coisas não estão fáceis
+ Entendo que esteja passando por uma situação difícil, infelizmente sou apenas um chatbot. . . Eu recomendo buscar ajuda profissional. Você pode entrar no site: " zenklub.com.br ". Nele você terá ajuda psicológica. E, causo esteja procurando por mais informações, entre no site: " centralpsicologia.com.br/blog " . Nele você encontra vários artigos.
+tudo me faz mal
+ Entendo que esteja passando por uma situação difícil, infelizmente sou apenas um chatbot. . . Eu recomendo buscar ajuda profissional. Você pode entrar no site: " zenklub.com.br ". Nele você terá ajuda psicológica. E, causo esteja procurando por mais informações, entre no site: " centralpsicologia.com.br/blog " . Nele você encontra vários artigos.
+estou mal com tudo
+ Entendo que esteja passando por uma situação difícil, infelizmente sou apenas um chatbot. . . Eu recomendo buscar ajuda profissional. Você pode entrar no site: " zenklub.com.br ". Nele você terá ajuda psicológica. E, causo esteja procurando por mais informações, entre no site: " centralpsicologia.com.br/blog " . Nele você encontra vários artigos.
+
+eu acho que tudo me faz mal
+ Entendo que esteja passando por uma situação difícil, infelizmente sou apenas um chatbot. . . Eu recomendo buscar ajuda profissional. Você pode entrar no site: " zenklub.com.br ". Nele você terá ajuda psicológica. E, causo esteja procurando por mais informações, entre no site: " centralpsicologia.com.br/blog " . Nele você encontra vários artigos.
+eu estou mal com tudo
+ Entendo que esteja passando por uma situação difícil, infelizmente sou apenas um chatbot. . . Eu recomendo buscar ajuda profissional. Você pode entrar no site: " zenklub.com.br ". Nele você terá ajuda psicológica. E, causo esteja procurando por mais informações, entre no site: " centralpsicologia.com.br/blog " . Nele você encontra vários artigos.
+
+como eu posso obter ajuda?
+ Eu recomendo buscar ajuda profissional. Você pode entrar no site: " zenklub.com.br ". Nele você terá ajuda psicológica. E, causo esteja procurando por mais informações, entre no site: " centralpsicologia.com.br/blog " . Nele você encontra vários artigos.
+
+como pode me ajudar? 
+ Diga-me, o mais resumidamente possível, o que acontece. Mas se estiver passando por uma situção difícil, eu recomendo ajuda profissional. Você pode entrar no site: " zenklub.com.br ". Nele você terá ajuda psicológica. E, causo esteja procurando por mais informações, entre no site: " centralpsicologia.com.br/blog " . Nele você encontra vários artigos.
+como posso obter ajuda?
+ Diga-me, o mais resumidamente possível, o que acontece. Mas se estiver passando por uma situção difícil, eu recomendo ajuda profissional. Você pode entrar no site: " zenklub.com.br ". Nele você terá ajuda psicológica. E, causo esteja procurando por mais informações, entre no site: " centralpsicologia.com.br/blog " . Nele você encontra vários artigos.
+qual é o tratamento indicado?
+ Especifique qual tratameno: "tratamento para depressão" ou "tratamento para ansiedade"
+o que devo fazer para tratar?
+ Especifique qual tratameno: "tratamento para depressão" ou "tratamento para ansiedade"
+qual é o tratamento indicado?
+ Especifique qual tratameno: "tratamento para depressão" ou "tratamento para ansiedade"
+o que eu devo fazer para tratar?
+ Especifique qual tratameno: "tratamento para depressão" ou "tratamento para ansiedade"
+o que eu devo fazer para me tratar?
+ Especifique qual tratameno: "tratamento para depressão" ou "tratamento para ansiedade"
+
+
+eu quero ajuda
+ Diga-me, o mais resumidamente possível, o que acontece. Mas se estiver passando por uma situção difícil, eu recomendo ajuda profissional. Você pode entrar no site: " zenklub.com.br ". Nele você terá ajuda psicológica. E, causo esteja procurando por mais informações, entre no site: " centralpsicologia.com.br/blog " . Nele você encontra vários artigos.
+eu preciso de ajuda
+ Diga-me, o mais resumidamente possível, o que acontece. Mas se estiver passando por uma situção difícil, eu recomendo ajuda profissional. Você pode entrar no site: " zenklub.com.br ". Nele você terá ajuda psicológica. E, causo esteja procurando por mais informações, entre no site: " centralpsicologia.com.br/blog " . Nele você encontra vários artigos.
+eu socorro, preciso de ajuda
+ Diga-me, o mais resumidamente possível, o que acontece. Mas se estiver passando por uma situção difícil, eu recomendo ajuda profissional. Você pode entrar no site: " zenklub.com.br ". Nele você terá ajuda psicológica. E, causo esteja procurando por mais informações, entre no site: " centralpsicologia.com.br/blog " . Nele você encontra vários artigos.
+
+quero ajuda
+ Estou aqui para tentar dar apoio. Diga-me, o mais resumidamente possível, o que acontece.
+preciso de ajuda
+ Estou aqui para tentar dar apoio. Diga-me, o mais resumidamente possível, o que acontece.
+socorro, preciso de ajuda
+ Estou aqui para tentar dar apoio. Diga-me, o mais resumidamente possível, o que acontece.
+me ajude
+ Estou aqui para tentar dar apoio. Diga-me, o mais resumidamente possível, o que acontece.
+me ajuda
+ Estou aqui para tentar dar apoio. Diga-me, o mais resumidamente possível, o que acontece.
+por favor me ajude
+ Estou aqui para tentar dar apoio. Diga-me, o mais resumidamente possível, o que acontece.
+por favor me ajuda
+ Estou aqui para tentar dar apoio. Diga-me, o mais resumidamente possível, o que acontece.
+me ajude por favor
+ Estou aqui para tentar dar apoio. Diga-me, o mais resumidamente possível, o que acontece.
+me ajuda por favor
+ Estou aqui para tentar dar apoio. Diga-me, o mais resumidamente possível, o que acontece.
+
+
+==================================================================================================================
+-------------------------------------- possibilidade de suicídio -------------------------------------------------
+==================================================================================================================
+
+só quero que tudo acabe
+ Sua vida é importante. Por favor, repense. Entre no site:" www.cvv.org.br " e converse com alguém de verdade.
+não vejo mais sentido na vida
+ Sua vida é importante. Por favor, repense. Entre no site:" www.cvv.org.br " e converse com alguém de verdade.
+não vejo mais sentido em viver
+ Sua vida é importante. Por favor, repense. Entre no site:" www.cvv.org.br " e converse com alguém de verdade.
+a morte é a solução
+ Sua vida é importante. Por favor, repense. Entre no site:" www.cvv.org.br " e converse com alguém de verdade.
+a morte parece ser a solução
+ Sua vida é importante. Por favor, repense. Entre no site:" www.cvv.org.br " e converse com alguém de verdade.
+talvez a morte seja a solução
+ Sua vida é importante. Por favor, repense. Entre no site:" www.cvv.org.br " e converse com alguém de verdade.
+
+quero morrer
+ Sua vida é importante. Por favor, repense. Entre no site:" www.cvv.org.br " e converse com alguém de verdade. 
+quero me matar
+ Sua vida é importante. Por favor, repense. Entre no site:" www.cvv.org.br " e converse com alguém de verdade.
+quero deixar de viver
+ Sua vida é importante. Por favor, repense. Entre no site:" www.cvv.org.br " e converse com alguém de verdade.
+quero que tudo acabe
+ Sua vida é importante. Por favor, repense. Entre no site:" www.cvv.org.br " e converse com alguém de verdade.
+quero deixar de viver
+ Sua vida é importante. Por favor, repense. Entre no site:" www.cvv.org.br " e converse com alguém de verdade.
+quero acabar com minha vida
+ Sua vida é importante. Por favor, repense. Entre no site:" www.cvv.org.br " e converse com alguém de verdade.
+
+desejo morrer
+ Sua vida é importante. Por favor, repense. Entre no site:" www.cvv.org.br " e converse com alguém de verdade.
+desejo me matar
+ Sua vida é importante. Por favor, repense. Entre no site:" www.cvv.org.br " e converse com alguém de verdade.
+desejo deixar de viver
+ Sua vida é importante. Por favor, repense. Entre no site:" www.cvv.org.br " e converse com alguém de verdade.
+desejo que tudo acabe
+ Sua vida é importante. Por favor, repense. Entre no site:" www.cvv.org.br " e converse com alguém de verdade.
+desejo deixar de viver
+ Sua vida é importante. Por favor, repense. Entre no site:" www.cvv.org.br " e converse com alguém de verdade.
+desejo acabar com minha vida
+ Sua vida é importante. Por favor, repense. Entre no site:" www.cvv.org.br " e converse com alguém de verdade.
+
+estou querendo morrer
+ Sua vida é importante. Por favor, repense. Entre no site:" www.cvv.org.br " e converse com alguém de verdade.
+estou querendo me matar
+ Sua vida é importante. Por favor, repense. Entre no site:" www.cvv.org.br " e converse com alguém de verdade.
+estou querendo deixar de viver
+ Sua vida é importante. Por favor, repense. Entre no site:" www.cvv.org.br " e converse com alguém de verdade.
+estou querendo que tudo acabe
+ Sua vida é importante. Por favor, repense. Entre no site:" www.cvv.org.br " e converse com alguém de verdade.
+estou querendo deixar de viver
+ Sua vida é importante. Por favor, repense. Entre no site:" www.cvv.org.br " e converse com alguém de verdade.
+estou querendo acabar com minha vida
+ Sua vida é importante. Por favor, repense. Entre no site:" www.cvv.org.br " e converse com alguém de verdade.
+
+sinto vontade de morrer
+ Sua vida é importante. Por favor, repense. Entre no site:" www.cvv.org.br " e converse com alguém de verdade.
+sinto vontade de me matar
+ Sua vida é importante. Por favor, repense. Entre no site:" www.cvv.org.br " e converse com alguém de verdade.
+sinto vontade de deixar de viver
+ Sua vida é importante. Por favor, repense. Entre no site:" www.cvv.org.br " e converse com alguém de verdade.
+sinto vontade de que tudo acabe
+ Sua vida é importante. Por favor, repense. Entre no site:" www.cvv.org.br " e converse com alguém de verdade.
+sinto vontade de deixar de viver
+ Sua vida é importante. Por favor, repense. Entre no site:" www.cvv.org.br " e converse com alguém de verdade.
+sinto vontade de acabar com minha vida
+ Sua vida é importante. Por favor, repense. Entre no site:" www.cvv.org.br " e converse com alguém de verdade.
+
+estou sentindo vontade de morrer
+ Sua vida é importante. Por favor, repense. Entre no site:" www.cvv.org.br " e converse com alguém de verdade.
+estou sentindo vontade de me matar
+ Sua vida é importante. Por favor, repense. Entre no site:" www.cvv.org.br " e converse com alguém de verdade.
+estou sentindo vontade de deixar de viver
+ Sua vida é importante. Por favor, repense. Entre no site:" www.cvv.org.br " e converse com alguém de verdade.
+estou sentindo vontade de que tudo acabe
+ Sua vida é importante. Por favor, repense. Entre no site:" www.cvv.org.br " e converse com alguém de verdade.
+estou sentindo vontade de deixar de viver
+ Sua vida é importante. Por favor, repense. Entre no site:" www.cvv.org.br " e converse com alguém de verdade.
+estou sentindo vontade de acabar com minha vida
+ Sua vida é importante. Por favor, repense. Entre no site:" www.cvv.org.br " e converse com alguém de verdade.
+
+estou pensando em morrer
+ Sua vida é importante. Por favor, repense. Entre no site:" www.cvv.org.br " e converse com alguém de verdade.
+estou pensando em me matar
+ Sua vida é importante. Por favor, repense. Entre no site:" www.cvv.org.br " e converse com alguém de verdade.
+estou pensando em deixar de viver
+ Sua vida é importante. Por favor, repense. Entre no site:" www.cvv.org.br " e converse com alguém de verdade.
+estou pensando que tudo deve acaber
+ Sua vida é importante. Por favor, repense. Entre no site:" www.cvv.org.br " e converse com alguém de verdade.
+estou pensando em deixar de viver
+ Sua vida é importante. Por favor, repense. Entre no site:" www.cvv.org.br " e converse com alguém de verdade.
+estou pensando em acabar com minha vida
+ Sua vida é importante. Por favor, repense. Entre no site:" www.cvv.org.br " e converse com alguém de verdade.
+
+eu só quero que tudo acabe
+ Sua vida é importante. Por favor, repense. Entre no site:" www.cvv.org.br " e converse com alguém de verdade.
+eu não vejo mais sentido na vida
+ Sua vida é importante. Por favor, repense. Entre no site:" www.cvv.org.br " e converse com alguém de verdade.
+eu não vejo mais sentido em viver
+ Sua vida é importante. Por favor, repense. Entre no site:" www.cvv.org.br " e converse com alguém de verdade.
+eu acho quea morte é a solução
+ Sua vida é importante. Por favor, repense. Entre no site:" www.cvv.org.br " e converse com alguém de verdade.
+eu acho que a morte parece ser a solução
+ Sua vida é importante. Por favor, repense. Entre no site:" www.cvv.org.br " e converse com alguém de verdade.
+eu acho que talvez a morte seja a solução
+ Sua vida é importante. Por favor, repense. Entre no site:" www.cvv.org.br " e converse com alguém de verdade.
+
+eu quero morrer
+ Sua vida é importante. Por favor, repense. Entre no site:" www.cvv.org.br " e converse com alguém de verdade.
+eu quero me matar
+ Sua vida é importante. Por favor, repense. Entre no site:" www.cvv.org.br " e converse com alguém de verdade.
+eu quero deixar de viver
+ Sua vida é importante. Por favor, repense. Entre no site:" www.cvv.org.br " e converse com alguém de verdade.
+eu quero que tudo acabe
+ Sua vida é importante. Por favor, repense. Entre no site:" www.cvv.org.br " e converse com alguém de verdade.
+eu quero deixar de viver
+ Sua vida é importante. Por favor, repense. Entre no site:" www.cvv.org.br " e converse com alguém de verdade.
+eu quero acabar com minha vida
+ Sua vida é importante. Por favor, repense. Entre no site:" www.cvv.org.br " e converse com alguém de verdade.
+
+eu desejo morrer
+ Sua vida é importante. Por favor, repense. Entre no site:" www.cvv.org.br " e converse com alguém de verdade.
+eu desejo me matar
+ Sua vida é importante. Por favor, repense. Entre no site:" www.cvv.org.br " e converse com alguém de verdade.
+eu desejo deixar de viver
+ Sua vida é importante. Por favor, repense. Entre no site:" www.cvv.org.br " e converse com alguém de verdade.
+eu desejo que tudo acabe
+ Sua vida é importante. Por favor, repense. Entre no site:" www.cvv.org.br " e converse com alguém de verdade.
+eu desejo deixar de viver
+ Sua vida é importante. Por favor, repense. Entre no site:" www.cvv.org.br " e converse com alguém de verdade.
+eu desejo acabar com minha vida
+ Sua vida é importante. Por favor, repense. Entre no site:" www.cvv.org.br " e converse com alguém de verdade.
+
+eu estou querendo morrer
+ Sua vida é importante. Por favor, repense. Entre no site:" www.cvv.org.br " e converse com alguém de verdade.
+eu estou querendo me matar
+ Sua vida é importante. Por favor, repense. Entre no site:" www.cvv.org.br " e converse com alguém de verdade.
+eu estou querendo deixar de viver
+ Sua vida é importante. Por favor, repense. Entre no site:" www.cvv.org.br " e converse com alguém de verdade.
+eu estou querendo que tudo acabe
+ Sua vida é importante. Por favor, repense. Entre no site:" www.cvv.org.br " e converse com alguém de verdade.
+eu estou querendo deixar de viver
+ Sua vida é importante. Por favor, repense. Entre no site:" www.cvv.org.br " e converse com alguém de verdade.
+eu estou querendo acabar com minha vida
+ Sua vida é importante. Por favor, repense. Entre no site:" www.cvv.org.br " e converse com alguém de verdade.
+
+eu sinto vontade de morrer
+ Sua vida é importante. Por favor, repense. Entre no site:" www.cvv.org.br " e converse com alguém de verdade.
+eu sinto vontade de me matar
+ Sua vida é importante. Por favor, repense. Entre no site:" www.cvv.org.br " e converse com alguém de verdade.
+eu sinto vontade de deixar de viver
+ Sua vida é importante. Por favor, repense. Entre no site:" www.cvv.org.br " e converse com alguém de verdade.
+eu sinto vontade de que tudo acabe
+ Sua vida é importante. Por favor, repense. Entre no site:" www.cvv.org.br " e converse com alguém de verdade.
+eu sinto vontade de deixar de viver
+ Sua vida é importante. Por favor, repense. Entre no site:" www.cvv.org.br " e converse com alguém de verdade.
+eu sinto vontade de acabar com minha vida
+ Sua vida é importante. Por favor, repense. Entre no site:" www.cvv.org.br " e converse com alguém de verdade.
+
+eu estou sentindo vontade de morrer
+ Sua vida é importante. Por favor, repense. Entre no site:" www.cvv.org.br " e converse com alguém de verdade.
+eu estou sentindo vontade de me matar
+ Sua vida é importante. Por favor, repense. Entre no site:" www.cvv.org.br " e converse com alguém de verdade.
+eu estou sentindo vontade de deixar de viver
+ Sua vida é importante. Por favor, repense. Entre no site:" www.cvv.org.br " e converse com alguém de verdade.
+eu estou sentindo vontade de que tudo acabe
+ Sua vida é importante. Por favor, repense. Entre no site:" www.cvv.org.br " e converse com alguém de verdade.
+eu estou sentindo vontade de deixar de viver
+ Sua vida é importante. Por favor, repense. Entre no site:" www.cvv.org.br " e converse com alguém de verdade.
+eu estou sentindo vontade de acabar com minha vida
+ Sua vida é importante. Por favor, repense. Entre no site:" www.cvv.org.br " e converse com alguém de verdade.
+
+eu estou pensando em morrer
+ Sua vida é importante. Por favor, repense. Entre no site:" www.cvv.org.br " e converse com alguém de verdade.
+eu estou pensando em me matar
+ Sua vida é importante. Por favor, repense. Entre no site:" www.cvv.org.br " e converse com alguém de verdade.
+eu estou pensando em deixar de viver
+ Sua vida é importante. Por favor, repense. Entre no site:" www.cvv.org.br " e converse com alguém de verdade.
+eu estou pensando que tudo deve acaber'
+ Sua vida é importante. Por favor, repense. Entre no site:" www.cvv.org.br " e converse com alguém de verdade.
+eu estou pensando em deixar de viver
+ Sua vida é importante. Por favor, repense. Entre no site:" www.cvv.org.br " e converse com alguém de verdade.
+eu estou pensando em acabar com minha vida
+ Sua vida é importante. Por favor, repense. Entre no site:" www.cvv.org.br " e converse com alguém de verdade.
+
+==================================================================================================================
+------------------------------------------------ tenho depressão -------------------------------------------------
+==================================================================================================================
+tenho depressão
+ Entendo que esteja passando por uma situação difícil, infelizmente sou apenas um chatbot. . . Eu recomendo buscar ajuda profissional. Você pode entrar no site: " zenklub.com.br ". Nele você terá ajuda psicológica. E, causo esteja procurando por mais informações, entre no site: " centralpsicologia.com.br/blog " . Nele você encontra vários artigos. Você também pode continuar conversando comigo, mas não terei todas as respostas. . .
+eu tenho depressão
+  Entendo que esteja passando por uma situação difícil, infelizmente sou apenas um chatbot. . . Eu recomendo buscar ajuda profissional. Você pode entrar no site: " zenklub.com.br ". Nele você terá ajuda psicológica . E, causo esteja procurando por mais informações, entre no site: " centralpsicologia.com.br/blog " . Nele você encontra vários artigos. Você também pode continuar conversando comigo, mas não terei todas as respostas. . .
+acho que tenho depressão
+ Se estiver tendo a sensação persistente de tristeza, perda de interesse em atividades que antes eram apreciadas, alterações no sono e no apetite podem ser que esteja com depressão. Recomendo buscar a opnião de um profissional. Você pode entrar no site: " zenklub.com.br ". Nele você terá ajuda psicológica.
+talvez eu tenha depressão
+ Se estiver tendo a sensação persistente de tristeza, perda de interesse em atividades que antes eram apreciadas, alterações no sono e no apetite podem ser que esteja com depressão. Recomendo buscar a opnião de um profissional. Você pode entrar no site: " zenklub.com.br ". Nele você terá ajuda psicológica.
+
+==================================================================================================================
+------------------------------------------------ tenho ansiedade -------------------------------------------------
+==================================================================================================================
+tenho ansiedade
+ Entendo que esteja passando por uma situação difícil, infelizmente sou apenas um chatbot. . . Eu recomendo buscar ajuda profissional. Você pode entrar no site: " zenklub.com.br ". Nele você terá ajuda psicológica. E, causo esteja procurando por mais informações, entre no site: " centralpsicologia.com.br/blog " . Nele você encontra vários artigos. Você também pode continuar conversando comigo, mas não terei todas as respostas. . .
+eu tenho ansiedade
+ Entendo que esteja passando por uma situação difícil, infelizmente sou apenas um chatbot. . . Eu recomendo buscar ajuda profissional. Você pode entrar no site: " zenklub.com.br ". Nele você terá ajuda psicológica. E, causo esteja procurando por mais informações, entre no site: " centralpsicologia.com.br/blog " . Nele você encontra vários artigos. Você também pode continuar conversando comigo, mas não terei todas as respostas. . .
+acho que tenho ansiedade
+ Se estiver sentido irritabilidade, sentimento de culpa, medo, preocupação exacerbada com o futuro e com a saúde, rebaixamento do humor, tendo comportamento de fuga, nervosismo, dificuldade de concentração, pensamentos negativos, aceleração dos pensamentos ou “vazio” na mente podem ser que esteja com da ansiedade.  Recomendo buscar a opnião de um profissional. Você pode entrar no site: " zenklub.com.br ". Nele você terá ajuda psicológica
+talvez eu tenha ansiedade
+ Se estiver sentido irritabilidade, sentimento de culpa, medo, preocupação exacerbada com o futuro e com a saúde, rebaixamento do humor, tendo comportamento de fuga, nervosismo, dificuldade de concentração, pensamentos negativos, aceleração dos pensamentos ou “vazio” na mente podem ser que esteja com da ansiedade.  Recomendo buscar a opnião de um profissional. Você pode entrar no site: " zenklub.com.br ". Nele você terá ajuda psicológica

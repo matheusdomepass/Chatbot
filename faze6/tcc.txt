@@ -1,0 +1,37 @@
+ - toda rede neural precisa passar pela fase de treinamento.
+
+========================================
+ >> pq fizemos na linguagem python?
+======================================== 
+  - por ser uma linguagem de alto nível, interpretada, de script, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte.
+
+       explicando:por ser uma linguagem de alto nível(sintaxe se aproxima mais da nossa linguagem), interpretada(que será interpretada pela máquina virtual da linguagem quando o programa for executado), de script(linguagem que for usada para escrever um script), imperativa( programação imperativa é um paradigma de programação que descreve a computação como ações), orientada a objetos("objetos", que podem conter dados na forma de campos, também conhecidos como atributos, e códigos, na forma de procedimentos, também conhecidos como métodos), funcional, de tipagem dinâmica(que não exigem declarações de tipos de dados, pois são capazes de escolher que tipo utilizar dinamicamente para cada variável) e forte( o interpretador do Python avalia as expressões e não faz conversões de valores entre tipos não compatíveis)
+
+  - não ter a necessidade de lidar com uma sintaxe complexa
+  - o Python tem uma matriz de frameworks para desenvolvimento de websites, no caso usamos flask, isso torna o código muito mais rápido e estável.
+  - python possui uma biblioteca chamada chatterbot, a qual foi usada para o desenvolvimento do projeto
+
+========================================
+>> o que é a bliblioteca chatterbot?
+========================================
+  - O ChatterBot é uma biblioteca Python que facilita a geração de respostas automatizadas às entradas de um usuário. O ChatterBot usa uma seleção de algoritmos de aprendizado de máquina para produzir diferentes tipos de respostas. Isso facilita para os desenvolvedores criar bots de bate-papo e automatizar conversas com os usuários.
+
+   =================
+   >> treinamento
+   =================
+     O ChatterBot inclui ferramentas que ajudam a simplificar o processo de treinamento de uma instância de bot de bate-papo. O processo de treinamento do ChatterBot envolve o carregamento de caixas de diálogo de exemplo no banco de dados do bot de bate-papo.
+
+     para o desenvolvimento do projeto foi realizado um treinamento via dados da lista.
+
+     from chatterbot.trainers import ListTrainer # importa o trinador da lista de trinamento, lembrando que precisa ser feita um lista de strings que represente um conversa
+
+========================================
+ >> pq usamos flask?
+========================================
+  - Flask é um pequeno framework web escrito em Python e baseado na biblioteca WSGI Werkzeug e na biblioteca de Jinja2.
+  - Flask tem a flexibilidade da linguagem de programação Python e provê um modelo simples para desenvolvimento web. Uma vez importando no Python, Flask pode ser usado para economizar tempo construindo aplicações web.
+
+========================================
+ >> pq usamos o pycharm?
+========================================
+  - O PyCharm fornece conclusão inteligente de código, inspeções de código, realce rápido de erros e correções rápidas, juntamente com refatorações de código automatizadas e recursos avançados de navegação.
